@@ -1,0 +1,13 @@
+2
+cau 1. nguyen van linh la ai?
+a.hoc sinh
+b.sinh vien
+c.giao vien
+d.doanh nhan
+b
+cau 2. nguyen tuan anh la ai?
+a.hoc sinh
+b.sinh vien
+c.giao vien
+d.doanh nhan
+d

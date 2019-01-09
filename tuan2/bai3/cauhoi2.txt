@@ -1,0 +1,13 @@
+2
+cau 1.ai thuong xuyen di hoc?
+a.linh
+b.tuan anh
+c.chien
+d.long
+c
+cau 2.ai choi the thao hay nhat?
+a.khoa
+b.hieu
+c.linh
+d.tai
+d
